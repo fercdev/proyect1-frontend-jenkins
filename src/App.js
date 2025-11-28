@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>PROYECTO FRONT PARA PIPELINE -- APUNTANDO A VERCEL</div>
+        <div>PROYECTO FRONT PARA PIPELINE -- VERCEL 2025/NOV</div>
       </header>
     </div>
   );
